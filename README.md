@@ -6,7 +6,7 @@ The following project I used for my final paper in college.
 
 The Scikit-Learn library along Jupyter Notebooks made in Python, was used for all models for classification. 
 
-The dataset provided by the state of São Paulo in the website https://www.seade.gov.br/coronavirus/.
+The dataset was provided by the state of São Paulo in the website https://www.seade.gov.br/coronavirus/.
 This dataset has all confirmed cases with the covid-19 in the state of São Paulo, and is being updated day by day until the publication of this project.
 I used because has columns with various comorbidities and others important datas to apply the study, like age, death and gender. Some columns I droped manually.
 The sampling period is between 04/02/20 to 21/03/21.
